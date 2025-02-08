@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Bernat Alcudia and I'm a Full Stack Junior, from Valencia</h2>
-<img src="https://drive.google.com/file/d/1fEgbhoskcAFx3HRcvZGHWWD8n1wSbBTU/view?usp=drive_link" heigth="150" alt="image profile"/>
+
 
 ###
 
