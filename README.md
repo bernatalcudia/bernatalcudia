@@ -56,6 +56,28 @@
 
 ###
 
+# Sobre mí
+
+Acabo de finalizar un bootcamp en desarrollo web con React y creé mi proyecto final con React Native.
+
+Soy un apasionado de la informática y la programación. Soy proactivo y curioso, por ello trato de investigar y actualizarme cada día en todo tipo de cuestiones.
+
+Mi plan es acabar buscando empleo como programador, para poder adquirir más experiencia profesional y en otros aspectos personales, sin dejar de seguir formándome y especializarme en más lenguajes de programación. Aspiro a mejorar cada día, tanto en conocimientos técnicos como en aptitudes, para ser más emprendedor, dinámico y demostrar mi determinación.
+
+**Certificado de discapacidad permanente de 38%**
+
+
+---
+
+# About Me
+
+I have just completed a web development bootcamp with React and created my final project with React Native. I am passionate about computer science and programming. I am proactive and curious, which is why I strive to research and update myself every day on all kinds of topics.
+
+My plan is to finish and look for a job as a programmer, to gain more professional experience and in other personal aspects, while continuing to train and specialize in more programming languages. I aim to improve each day with both technical knowledge and skills to become more entrepreneurial, dynamic, and to demonstrate my determination.
+
+**Certificate of permanent disability of 38%**
+
+
 <br clear="both">
 
 <picture>
