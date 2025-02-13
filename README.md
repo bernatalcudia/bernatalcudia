@@ -60,7 +60,7 @@
 
 Acabo de finalizar un bootcamp en desarrollo web con React y creé mi proyecto final con React Native.
 
-Soy un apasionado de la informática y la programación. Soy proactivo y curioso, por ello trato de investigar y actualizarme cada día en todo tipo de cuestiones.
+Soy un apasionado de la informática y la programación. Soy proactivo y curioso, por eso trato de investigar y actualizarme cada día en todo tipo de cuestiones.
 
 Mi plan es acabar buscando empleo como programador, para poder adquirir más experiencia profesional y en otros aspectos personales, sin dejar de seguir formándome y especializarme en más lenguajes de programación. Aspiro a mejorar cada día, tanto en conocimientos técnicos como en aptitudes, para ser más emprendedor, dinámico y demostrar mi determinación.
 
