@@ -51,12 +51,11 @@
 
 # Sobre mí
 
-Acabo de finalizar un bootcamp en desarrollo web con React y creé mi proyecto final con React Native.
+He completado recientemente un bootcamp intensivo en desarrollo web con React, culminando con un proyecto final desarrollado en React Native que me permitió afianzar mis competencias técnicas. Soy un profesional apasionado por la informática y la programación, y mi enfoque proactivo y autodidacta me impulsa a actualizarme constantemente en las últimas tendencias y tecnologías del sector.
 
-Soy un apasionado de la informática y la programación. Soy proactivo y curioso, por eso trato de investigar y actualizarme cada día en todo tipo de cuestiones.
+Mi objetivo es integrarme en un equipo de alto rendimiento donde pueda aplicar y ampliar mi experiencia en el desarrollo de software. Estoy comprometido con la formación continua y la especialización en diversos lenguajes y herramientas, lo que me permite evolucionar tanto en competencias técnicas como en habilidades interpersonales. Mi determinación, dinamismo y espíritu emprendedor me posicionan para aportar soluciones innovadoras y un valor añadido a proyectos de gran envergadura.
 
-Mi plan es acabar buscando empleo como programador, para poder adquirir más experiencia profesional y en otros aspectos personales, sin dejar de seguir formándome y especializarme en más lenguajes de programación. Aspiro a mejorar cada día, tanto en conocimientos técnicos como en aptitudes, para ser más emprendedor, dinámico y demostrar mi determinación.
-
+Confío en que mi perfil se ajusta a las exigencias de una empresa líder, y estoy listo para contribuir de manera significativa al éxito del equipo.
 **Certificado de discapacidad permanente de 38%**
 
 
