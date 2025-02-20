@@ -56,6 +56,7 @@ He completado recientemente un bootcamp intensivo en desarrollo web con React, c
 Mi objetivo es integrarme en un equipo de alto rendimiento donde pueda aplicar y ampliar mi experiencia en el desarrollo de software. Estoy comprometido con la formación continua y la especialización en diversos lenguajes y herramientas, lo que me permite evolucionar tanto en competencias técnicas como en habilidades interpersonales. Mi determinación, dinamismo y espíritu emprendedor me posicionan para aportar soluciones innovadoras y un valor añadido a proyectos de gran envergadura.
 
 Confío en que mi perfil se ajusta a las exigencias de una empresa líder, y estoy listo para contribuir de manera significativa al éxito del equipo.
+
 **Certificado de discapacidad permanente de 38%**
 
 
@@ -63,9 +64,11 @@ Confío en que mi perfil se ajusta a las exigencias de una empresa líder, y est
 
 # About Me
 
-I have just completed a web development bootcamp with React and created my final project with React Native. I am passionate about computer science and programming. I am proactive and curious, which is why I strive to research and update myself every day on all kinds of topics.
+I have recently completed an intensive web development bootcamp focused on React, culminating in a final project developed using React Native that allowed me to consolidate my technical skills. I am a professional passionate about computer science and programming, and my proactive, self-taught approach drives me to continuously update myself with the latest industry trends and technologies.
 
-My plan is to finish and look for a job as a programmer, to gain more professional experience and in other personal aspects, while continuing to train and specialize in more programming languages. I aim to improve each day with both technical knowledge and skills to become more entrepreneurial, dynamic, and to demonstrate my determination.
+My goal is to join a high-performing team where I can both apply and expand my software development experience. I am committed to continuous learning and specializing in various programming languages and tools, which enables me to grow both technically and interpersonally. My determination, dynamism, and entrepreneurial spirit position me to deliver innovative solutions and add significant value to large-scale projects.
+
+I am confident that my profile meets the requirements of a leading company, and I am ready to make a substantial contribution to the team's success.
 
 **Certificate of permanent disability of 38%**
 
