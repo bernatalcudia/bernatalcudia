@@ -43,7 +43,7 @@
   <a href="https://youtu.be/gpnLKt58rOg?si=puXYmcZkaSuoB75L" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
- <a href="https://www.linkedin.com/in/bernat-alcudia-0b89a3305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+ <a href="www.linkedin.com/in/bernatalcudiagrimaldos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a></div>
 
