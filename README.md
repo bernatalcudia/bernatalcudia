@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bernat Alcudia and I'm a Full Stack Junior, from Valencia</h2>
+<h2 align="left">Hi 👋! My name is Bernat Alcudia and I'm a Full Stack, from Valencia</h2>
 
 
 ###
