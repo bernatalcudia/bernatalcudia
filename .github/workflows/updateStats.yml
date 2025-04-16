@@ -5,7 +5,7 @@ on:
     - cron: '0 0 * * *' 
   push:
     branches:
-      - main 
+      - main
 
 jobs:
   update-readme-stats:
@@ -18,13 +18,15 @@ jobs:
         uses: anuraghazra/github-readme-stats@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Puedes personalizar las opciones aquí
-          # Ejemplo:
           show_icons: true
           theme: dark
           hide_border: true
+        
+          username: ${{ github.bernatalcudia }} 
+          count_private: true
+          include_all_commits: true
 
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update GitHub stats"
+          commit_message: "Update Stats GitHub"
