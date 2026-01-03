@@ -8,12 +8,11 @@
   </a>
 </p>
 
-### 🏆 GitHub Trophies
+### 🏆 My GitHub Trophies
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bernatalcudia&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4" alt="bernatalcudia trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=bernatalcudia&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S,A,B,C" alt="trophies" />
 </p>
+
 
 ---
 
@@ -36,9 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=bernatalcudia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bernatalcudia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernatalcudia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bernatalcudia&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
